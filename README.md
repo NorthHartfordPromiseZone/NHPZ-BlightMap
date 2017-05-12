@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://northhartfordpromisezone.github.io/NHPZ-BlightMap/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1K_1_FQy89ir1p9-Hj2C3vbmLGSIiY43idd_Ys_dClm0/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1Aop6pmyaZ1vu8yCEvmyEJzlwLqYx8_0ZukuvAqSo2nw/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
